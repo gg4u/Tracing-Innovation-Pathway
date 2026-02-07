@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying preprint:"
+title: "Tracing Innovation Pathways"
+authors:
+  - family-names: Assom
+    given-names: Luigi
+  - family-names: Larsson
+    given-names: Aron
+  - family-names: Chiolerio
+    given-names: Alessandro
+doi: 10.20944/preprints202512.2547.v1
+journal: Preprints
+year: 2025
+version: "2025122547"
+license: CC-BY-4.0
+type: article
