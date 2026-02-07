@@ -103,7 +103,9 @@ In this study, nine themes emerged:
 - Critics  
 - Disadvantages  
 
-Theme diversity is quantified using the **coefficient of unlikeability**, showing high heterogeneity across responses.
+Theme diversity is quantified using the **coefficient of unlikeability** (probability that two randomly selected instances of theme-codes associations will be in different categories), showing high heterogeneity across responses.
+
+Theme robustness is inspected using the **mutual information** and **correlation** : values closed to zero across almost all pairs of themes indicate non-redundant and distinct thematic coverage. 
 
 ---
 
