@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the accompanying preprint:"
-title: "Tracing Innovation Pathways"
+title: "Tracing Innovation Pathways (analysis code and materials)"
+type: software
 authors:
   - family-names: Assom
     given-names: Luigi
@@ -8,9 +9,20 @@ authors:
     given-names: Aron
   - family-names: Chiolerio
     given-names: Alessandro
-doi: 10.20944/preprints202512.2547.v1
-journal: Preprints
-year: 2025
-version: "2025122547"
-license: CC-BY-4.0
-type: article
+url: "https://github.com/gg4u/Tracing-Innovation-Pathway/"
+
+preferred-citation:
+  type: article
+  title: "Tracing Innovation Pathways"
+  authors:
+    - family-names: Assom
+      given-names: Luigi
+    - family-names: Larsson
+      given-names: Aron
+    - family-names: Chiolerio
+      given-names: Alessandro
+  journal: "Preprints"
+  year: 2025
+  number: "2025122547"
+  doi: "10.20944/preprints202512.2547.v1"
+  url: "https://doi.org/10.20944/preprints202512.2547.v1"
